@@ -1,0 +1,146 @@
+report_id,facility_id,date,issue,severity,facility_type,building,capacity,log_id,maintenance_date,duration_hours,technician
+R3000,A124,2024-01-03,Hong bong den,medium,Lab,A-BLOCK,,M7031,,2.0,Nguyen Van A
+R3001,A136,2024-01-21, Dieu hoa hong,low,Studio,B,60.0,M7057,2024-05-22,2.0,Nguyen Van A
+R3002,A116,,may chieu khong len,high,Phong  Hoc,TOA A,60.0,M7018,2024-01-17,,Nguyen Van A
+R3003,A137,2024-05-20, mat dien,low,Phong  Hoc,TOA A,90.0,,,,
+R3004,A105,, wifi yeu,medium,Lab,A-BLOCK,80.0,M7001,2024-01-25,,Pham Van D
+R3004,A105,, wifi yeu,medium,Lab,A-BLOCK,80.0,M7073,,5.0,Tran   Van C
+R3005,A125,,Hong bong den,low,Hoi Truong,TOA A,,,,,
+R3006,A108,, wifi yeu,medium,Phong  Hoc,BLOCK C,,M7060,2024-02-24,2.0,Tran   Van C
+R3007,A101,,may chieu khong len,medium,Studio,A-BLOCK,60.0,M7098,2024-06-08,5.0,Pham Van D
+R3008,A150,, wifi yeu,medium,Phong Hoc,B,50.0,M7006,,,Le Thi B
+R3008,A150,, wifi yeu,medium,Phong Hoc,B,50.0,M7061,2024-06-08,4.25,Le Thi B
+R3009,A151,2024-01-31,may chieu khong len,high,Phong  Hoc,A-BLOCK,,,,,
+R3010,A111,2024-01-06, mat dien,medium,Hoi Truong,A,90.0,,,,
+R3011,A120,, wifi yeu,medium,Lab,B,50.0,M7003,2024-01-10,4.25,Nguyen Van A
+R3011,A120,, wifi yeu,medium,Lab,B,50.0,M7025,2024-03-20,2.0,Le Thi B
+R3012,A153,, mat dien,high,Studio,A-BLOCK,80.0,M7015,,1.5,Tran   Van C
+R3013,A139,, loa bi re,high,Lab,A-BLOCK,50.0,,,,
+R3014,A103,, wifi yeu,high,Hoi Truong,TOA A,50.0,M7046,2024-01-08,4.25,Nguyen Van A
+R3014,A103,, wifi yeu,high,Hoi Truong,TOA A,50.0,M7085,,2.0,Pham Van D
+R3015,A117,2024-01-13,Hong bong den,low,Lab,A-BLOCK,50.0,M7039,,1.5,Tran   Van C
+R3015,A117,2024-01-13,Hong bong den,low,Lab,A-BLOCK,50.0,M7048,2024-04-01,5.0,Le Thi B
+R3015,A117,2024-01-13,Hong bong den,low,Lab,A-BLOCK,50.0,M7082,2024-05-25,,Le Thi B
+R3016,A133,, Dieu hoa hong,low,Phong Hoc,TOA A,60.0,,,,
+R3017,A148,2024-01-19,may chieu khong len,low,Hoi Truong,BLOCK C,90.0,,,,
+R3018,A121,,Hong bong den,low,Lab,B,50.0,,,,
+R3019,A135,2024-05-04, wifi yeu,high,Hoi Truong,B,80.0,,,,
+R3020,A127,2024-02-09, Dieu hoa hong,medium,Studio,BLOCK C,80.0,M7074,2024-04-09,4.25,Tran   Van C
+R3021,A146,,Hong bong den,high,Phong Hoc,C,50.0,M7010,,4.25,Nguyen Van A
+R3021,A146,,Hong bong den,high,Phong Hoc,C,50.0,M7069,2024-02-16,,Le Thi B
+R3022,A117,2024-04-02, loa bi re,high,Lab,A-BLOCK,50.0,,,,
+R3023,A128,, mat dien,low,Lab,A-BLOCK,,M7034,2024-03-20,4.25,Le Thi B
+R3023,A128,, mat dien,low,Lab,A-BLOCK,,M7067,,1.5,Nguyen Van A
+R3024,A142,, wifi yeu,low,Hoi Truong,A,,M7071,2024-06-09,4.25,Le Thi B
+R3024,A142,, wifi yeu,low,Hoi Truong,A,,M7090,,,Pham Van D
+R3025,A108,, Dieu hoa hong,medium,Phong  Hoc,BLOCK C,,,,,
+R3026,A141,2024-04-16,may chieu khong len,medium,Studio,C,80.0,M7049,2024-04-21,,Nguyen Van A
+R3026,A141,2024-04-16,may chieu khong len,medium,Studio,C,80.0,M7091,,4.25,Pham Van D
+R3027,A152,2024-03-30, wifi yeu,high,Lab,B,80.0,M7096,2024-04-05,,Tran   Van C
+R3028,A144,, wifi yeu,low,Phong  Hoc,A,,M7088,2024-01-21,2.0,Pham Van D
+R3029,A153,2024-03-09, wifi yeu,low,Studio,A-BLOCK,80.0,,,,
+R3030,A145,,may chieu khong len,high,Hoi Truong,BLOCK C,50.0,M7017,2024-01-10,5.0,Nguyen Van A
+R3031,A130,,Hong bong den,low,Phong  Hoc,TOA A,90.0,M7038,2024-05-09,,Le Thi B
+R3032,A142,2024-03-20, Dieu hoa hong,high,Hoi Truong,A,,M7042,2024-04-18,2.0,Pham Van D
+R3032,A142,2024-03-20, Dieu hoa hong,high,Hoi Truong,A,,M7052,2024-04-24,1.5,Nguyen Van A
+R3032,A142,2024-03-20, Dieu hoa hong,high,Hoi Truong,A,,M7094,,,Nguyen Van A
+R3033,A135,, wifi yeu,high,Hoi Truong,B,80.0,M7040,,1.5,Le Thi B
+R3034,A142,2024-03-07,may chieu khong len,low,Hoi Truong,A,,M7020,2024-05-08,4.25,Nguyen Van A
+R3035,A145,2024-03-17,Hong bong den,high,Hoi Truong,BLOCK C,50.0,M7081,,4.25,Pham Van D
+R3036,A111,,may chieu khong len,low,Hoi Truong,A,90.0,,,,
+R3037,A103,2024-01-04, mat dien,medium,Hoi Truong,TOA A,50.0,,,,
+R3038,A128,, mat dien,high,Lab,A-BLOCK,,,,,
+R3039,A120,,may chieu khong len,low,Lab,B,50.0,M7053,2024-01-09,5.0,Nguyen Van A
+R3040,A156,2024-04-30, mat dien,low,Hoi Truong,BLOCK C,,M7024,2024-04-28,4.25,Le Thi B
+R3041,A140,, mat dien,high,Lab,TOA A,60.0,M7030,,4.25,Tran   Van C
+R3041,A140,, mat dien,high,Lab,TOA A,60.0,M7065,2024-05-08,2.0,Tran   Van C
+R3042,A122,2024-05-21,may chieu khong len,medium,Studio,C,80.0,M7062,2024-03-27,1.5,Le Thi B
+R3043,A153,2024-02-02, Dieu hoa hong,high,Studio,A-BLOCK,80.0,,,,
+R3044,A133,2024-04-08, Dieu hoa hong,high,Phong Hoc,TOA A,60.0,M7078,,4.25,Le Thi B
+R3045,A155,2024-03-31, Dieu hoa hong,low,Phong Hoc,B,,M7041,2024-01-01,1.5,Le Thi B
+R3045,A155,2024-03-31, Dieu hoa hong,low,Phong Hoc,B,,M7045,2024-02-20,,Nguyen Van A
+R3046,A148,2024-01-25,may chieu khong len,low,Hoi Truong,BLOCK C,90.0,M7076,,4.25,Tran   Van C
+R3047,A134,, Dieu hoa hong,high,Phong  Hoc,BLOCK C,,M7075,2024-05-13,,Tran   Van C
+R3048,A101,2024-04-03, Dieu hoa hong,medium,Studio,A-BLOCK,60.0,,,,
+R3049,A128,,may chieu khong len,high,Lab,A-BLOCK,,,,,
+R3050,A144,2024-01-08,may chieu khong len,low,Phong  Hoc,A,,M7032,,,Tran   Van C
+R3051,A124,, mat dien,high,Lab,A-BLOCK,,M7000,2024-03-30,5.0,Nguyen Van A
+R3051,A124,, mat dien,high,Lab,A-BLOCK,,M7036,,,Pham Van D
+R3052,A126,2024-04-10, Dieu hoa hong,high,Hoi Truong,B,,M7007,2024-04-28,1.5,Le Thi B
+R3052,A126,2024-04-10, Dieu hoa hong,high,Hoi Truong,B,,M7093,,,Le Thi B
+R3053,A133,, loa bi re,high,Phong Hoc,TOA A,60.0,M7021,2024-02-20,1.5,Le Thi B
+R3054,A108,,Hong bong den,low,Phong  Hoc,BLOCK C,,M7097,2024-03-27,2.0,Pham Van D
+R3055,A125,, wifi yeu,high,Hoi Truong,TOA A,,,,,
+R3056,A114,2024-04-23,Hong bong den,low,Studio,C,,M7004,,1.5,Le Thi B
+R3057,A156,2024-03-17, loa bi re,medium,Hoi Truong,BLOCK C,,M7005,,,Le Thi B
+R3058,A155,2024-02-25, Dieu hoa hong,high,Phong Hoc,B,,M7080,,2.0,Nguyen Van A
+R3059,A113,2024-04-09, loa bi re,medium,Phong Hoc,B,,,,,
+R3060,A103,2024-03-28, Dieu hoa hong,low,Hoi Truong,TOA A,50.0,M7043,2024-01-30,4.25,Le Thi B
+R3060,A103,2024-03-28, Dieu hoa hong,low,Hoi Truong,TOA A,50.0,M7072,,4.25,Pham Van D
+R3061,A146,2024-04-06, loa bi re,low,Phong Hoc,C,50.0,,,,
+R3062,A109,2024-03-07, Dieu hoa hong,high,Lab,A-BLOCK,,M7055,,1.5,Le Thi B
+R3063,A140,,may chieu khong len,medium,Lab,TOA A,60.0,,,,
+R3064,A124,, wifi yeu,medium,Lab,A-BLOCK,,M7022,2024-03-28,2.0,Nguyen Van A
+R3064,A124,, wifi yeu,medium,Lab,A-BLOCK,,M7027,2024-02-13,2.0,Tran   Van C
+R3065,A156,, wifi yeu,medium,Hoi Truong,BLOCK C,,M7087,,1.5,Tran   Van C
+R3066,A120,2024-05-11, loa bi re,high,Lab,B,50.0,,,,
+R3067,A110,,Hong bong den,low,Hoi Truong,A-BLOCK,,,,,
+R3068,A124,2024-04-27, loa bi re,high,Lab,A-BLOCK,,,,,
+R3069,A136,, Dieu hoa hong,medium,Studio,B,60.0,M7054,,,Pham Van D
+R3069,A136,, Dieu hoa hong,medium,Studio,B,60.0,M7064,,5.0,Nguyen Van A
+R3070,A153,2024-05-09, wifi yeu,low,Studio,A-BLOCK,80.0,,,,
+R3071,A136,2024-03-25,may chieu khong len,medium,Studio,B,60.0,M7059,2024-05-27,,Tran   Van C
+R3072,A141,2024-05-27, mat dien,high,Studio,C,80.0,M7092,,,Le Thi B
+R3073,A100,2024-03-06, mat dien,low,Phong Hoc,B,,,,,
+R3074,A152,, wifi yeu,high,Lab,B,80.0,,,,
+R3075,A157,,Hong bong den,high,Phong Hoc,TOA A,,M7050,,5.0,Le Thi B
+R3076,A115,2024-03-18, loa bi re,low,Lab,B,,,,,
+R3077,A157,2024-05-17,Hong bong den,medium,Phong Hoc,TOA A,,M7023,,4.25,Nguyen Van A
+R3078,A131,2024-03-09,may chieu khong len,medium,Studio,BLOCK C,80.0,,,,
+R3079,A130,2024-01-25, wifi yeu,high,Phong  Hoc,TOA A,90.0,M7019,,,Pham Van D
+R3080,A121,, wifi yeu,high,Lab,B,50.0,M7037,,,Nguyen Van A
+R3081,A130,2024-02-23,Hong bong den,low,Phong  Hoc,TOA A,90.0,,,,
+R3082,A155,, wifi yeu,high,Phong Hoc,B,,M7077,,2.0,Nguyen Van A
+R3083,A147,2024-03-25,may chieu khong len,high,Phong  Hoc,BLOCK C,50.0,,,,
+R3084,A121,, Dieu hoa hong,medium,Lab,B,50.0,M7079,2024-01-20,1.5,Tran   Van C
+R3085,A131,,Hong bong den,medium,Studio,BLOCK C,80.0,,,,
+R3086,A159,, mat dien,medium,Hoi Truong,C,50.0,,,,
+R3087,A102,2024-02-28,may chieu khong len,medium,Phong Hoc,TOA A,50.0,M7012,,4.25,Nguyen Van A
+R3088,A150,, wifi yeu,medium,Phong Hoc,B,50.0,M7014,2024-05-10,2.0,Le Thi B
+R3089,A104,2024-05-14, wifi yeu,low,Phong  Hoc,BLOCK C,,M7028,2024-05-27,,Le Thi B
+R3089,A104,2024-05-14, wifi yeu,low,Phong  Hoc,BLOCK C,,M7068,,1.5,Pham Van D
+R3090,A127,, wifi yeu,medium,Studio,BLOCK C,80.0,M7035,2024-04-05,1.5,Tran   Van C
+R3091,A131,2024-05-26,Hong bong den,high,Studio,BLOCK C,80.0,,,,
+R3092,A133,2024-03-13, loa bi re,low,Phong Hoc,TOA A,60.0,M7070,,,Pham Van D
+R3093,A127,2024-02-12, wifi yeu,medium,Studio,BLOCK C,80.0,,,,
+R3094,A148,, loa bi re,high,Hoi Truong,BLOCK C,90.0,M7013,,4.25,Pham Van D
+R3095,A147,2024-04-06, Dieu hoa hong,medium,Phong  Hoc,BLOCK C,50.0,M7011,,1.5,Nguyen Van A
+R3096,A132,,Hong bong den,medium,Lab,A-BLOCK,80.0,M7066,,5.0,Tran   Van C
+R3097,A104,,Hong bong den,medium,Phong  Hoc,BLOCK C,,M7029,2024-03-31,1.5,Le Thi B
+R3098,A105,,may chieu khong len,low,Lab,A-BLOCK,80.0,,,,
+R3099,A108,2024-04-12, Dieu hoa hong,low,Phong  Hoc,BLOCK C,,,,,
+R3100,A159,, mat dien,low,Hoi Truong,C,50.0,M7083,,5.0,Pham Van D
+R3100,A159,, mat dien,low,Hoi Truong,C,50.0,M7095,,,Tran   Van C
+R3101,A159,, wifi yeu,high,Hoi Truong,C,50.0,M7056,2024-01-13,,Nguyen Van A
+R3102,A122,2024-01-08, Dieu hoa hong,low,Studio,C,80.0,,,,
+R3103,A154,, Dieu hoa hong,high,Phong Hoc,A-BLOCK,,M7044,,,Pham Van D
+R3103,A154,, Dieu hoa hong,high,Phong Hoc,A-BLOCK,,M7051,2024-01-25,1.5,Nguyen Van A
+R3104,A131,,Hong bong den,low,Studio,BLOCK C,80.0,,,,
+R3105,A129,2024-01-21, loa bi re,medium,Studio,A,80.0,M7026,,,Le Thi B
+R3105,A129,2024-01-21, loa bi re,medium,Studio,A,80.0,M7099,,4.25,Le Thi B
+R3106,A140,2024-03-08, mat dien,high,Lab,TOA A,60.0,M7033,,,Pham Van D
+R3107,A154,2024-05-21, mat dien,high,Phong Hoc,A-BLOCK,,M7002,2024-01-21,4.25,Nguyen Van A
+R3108,A134,, Dieu hoa hong,medium,Phong  Hoc,BLOCK C,,M7047,2024-05-09,4.25,Nguyen Van A
+R3109,A118,2024-05-12, mat dien,high,Hoi Truong,A,90.0,,,,
+R3110,A135,2024-04-25, wifi yeu,high,Hoi Truong,B,80.0,M7089,,,Nguyen Van A
+R3111,A151,2024-01-01,Hong bong den,low,Phong  Hoc,A-BLOCK,,M7086,2024-03-25,2.0,Pham Van D
+R3112,A106,,may chieu khong len,medium,Studio,TOA A,,,,,
+R3113,A132,,may chieu khong len,low,Lab,A-BLOCK,80.0,M7058,2024-02-19,1.5,Tran   Van C
+R3114,A117,2024-01-11, Dieu hoa hong,high,Lab,A-BLOCK,50.0,,,,
+R3115,A128,2024-04-18, loa bi re,low,Lab,A-BLOCK,,M7008,,2.0,Le Thi B
+R3115,A128,2024-04-18, loa bi re,low,Lab,A-BLOCK,,M7009,2024-02-05,5.0,Le Thi B
+R3116,A158,2024-02-15, wifi yeu,low,Lab,A,,M7016,,,Nguyen Van A
+R3116,A158,2024-02-15, wifi yeu,low,Lab,A,,M7063,2024-06-09,,Nguyen Van A
+R3117,A123,2024-01-05, Dieu hoa hong,high,Lab,C,90.0,M7084,2024-04-13,,Tran   Van C
+R3118,A103,, wifi yeu,high,Hoi Truong,TOA A,50.0,,,,
+R3119,A136,, mat dien,low,Studio,B,60.0,,,,
