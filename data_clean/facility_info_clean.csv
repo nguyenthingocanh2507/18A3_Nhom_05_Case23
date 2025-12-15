@@ -1,0 +1,61 @@
+facility_id,facility_type,building,capacity
+A100,Phong Hoc,B,
+A101,Studio,A-BLOCK,60.0
+A102,Phong Hoc,TOA A,50.0
+A103,Hoi Truong,TOA A,50.0
+A104,Phong  Hoc,BLOCK C,
+A105,Lab,A-BLOCK,80.0
+A106,Studio,TOA A,
+A107,Phong  Hoc,A,90.0
+A108,Phong  Hoc,BLOCK C,
+A109,Lab,A-BLOCK,
+A110,Hoi Truong,A-BLOCK,
+A111,Hoi Truong,A,90.0
+A112,Hoi Truong,BLOCK C,90.0
+A113,Phong Hoc,B,
+A114,Studio,C,
+A115,Lab,B,
+A116,Phong  Hoc,TOA A,60.0
+A117,Lab,A-BLOCK,50.0
+A118,Hoi Truong,A,90.0
+A119,Phong Hoc,BLOCK C,50.0
+A120,Lab,B,50.0
+A121,Lab,B,50.0
+A122,Studio,C,80.0
+A123,Lab,C,90.0
+A124,Lab,A-BLOCK,
+A125,Hoi Truong,TOA A,
+A126,Hoi Truong,B,
+A127,Studio,BLOCK C,80.0
+A128,Lab,A-BLOCK,
+A129,Studio,A,80.0
+A130,Phong  Hoc,TOA A,90.0
+A131,Studio,BLOCK C,80.0
+A132,Lab,A-BLOCK,80.0
+A133,Phong Hoc,TOA A,60.0
+A134,Phong  Hoc,BLOCK C,
+A135,Hoi Truong,B,80.0
+A136,Studio,B,60.0
+A137,Phong  Hoc,TOA A,90.0
+A138,Hoi Truong,A-BLOCK,50.0
+A139,Lab,A-BLOCK,50.0
+A140,Lab,TOA A,60.0
+A141,Studio,C,80.0
+A142,Hoi Truong,A,
+A143,Phong  Hoc,BLOCK C,80.0
+A144,Phong  Hoc,A,
+A145,Hoi Truong,BLOCK C,50.0
+A146,Phong Hoc,C,50.0
+A147,Phong  Hoc,BLOCK C,50.0
+A148,Hoi Truong,BLOCK C,90.0
+A149,Hoi Truong,A,
+A150,Phong Hoc,B,50.0
+A151,Phong  Hoc,A-BLOCK,
+A152,Lab,B,80.0
+A153,Studio,A-BLOCK,80.0
+A154,Phong Hoc,A-BLOCK,
+A155,Phong Hoc,B,
+A156,Hoi Truong,BLOCK C,
+A157,Phong Hoc,TOA A,
+A158,Lab,A,
+A159,Hoi Truong,C,50.0

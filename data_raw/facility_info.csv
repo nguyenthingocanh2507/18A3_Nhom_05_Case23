@@ -1,0 +1,61 @@
+facility_id,facility_type,building,capacity
+a100,Phong hoc,B,70a
+ A101,studio,A-block, 60
+A102 ,Phong hoc, toa A,50
+A103,Hoi truong , toa A,50
+A104,phong  hoc, block c, 100b
+A105 ,Lab,A-block,80 
+a106,studio, toa A, 100b
+ A107,phong  hoc,A,90
+a108,phong  hoc, block c, 100b
+ A109,lab ,A-block,70a
+ A110,Hoi truong ,A-block,70a
+A111,Hoi truong ,A,90
+A112,Hoi truong, block c,90
+A113 ,Phong hoc,B, 100b
+A114 ,studio,C,70a
+A115,Lab,B, 100b
+a116,phong  hoc, toa A, 60
+a117,Lab,A-block,50
+ A118,Hoi truong ,A,90
+ A119,Phong hoc, block c,50
+ A120,Lab,B,50
+A121,lab ,B,50
+a122,studio,C,80 
+ A123,lab ,C,90
+A124,Lab,A-block, 100b
+A125 ,Hoi truong , toa A,70a
+A126 ,Hoi truong,B, 100b
+a127,studio, block c,80 
+ A128,lab ,A-block,70a
+a129,studio,A,80 
+a130,phong  hoc, toa A,90
+A131 ,studio, block c,80 
+ A132,lab ,A-block,80 
+ A133,Phong hoc, toa A, 60
+a134,phong  hoc, block c, 100b
+A135,Hoi truong ,B,80 
+A136,studio,B, 60
+a137,phong  hoc, toa A,90
+A138 ,Hoi truong,A-block,50
+ A139,Lab,A-block,50
+A140,lab , toa A, 60
+a141,studio,C,80 
+ A142,Hoi truong,A, 100b
+A143 ,phong  hoc, block c,80 
+a144,phong  hoc,A, 100b
+A145 ,Hoi truong, block c,50
+A146,Phong hoc,C,50
+A147 ,phong  hoc, block c,50
+a148,Hoi truong , block c,90
+A149 ,Hoi truong ,A, 100b
+A150 ,Phong hoc,B,50
+A151,phong  hoc,A-block, 100b
+A152 ,Lab,B,80 
+A153,studio,A-block,80 
+a154,Phong hoc,A-block,70a
+a155,Phong hoc,B,70a
+A156 ,Hoi truong , block c,70a
+A157 ,Phong hoc, toa A, 100b
+A158,Lab,A, 100b
+A159,Hoi truong,C,50

@@ -1,0 +1,121 @@
+report_id,facility_id,date,issue,severity
+R3000,A124,2024-01-03,Hong bong den,medium
+R3001,A136,2024-01-21, Dieu hoa hong,low
+R3002,A116,,may chieu khong len,high
+R3003,A137,2024-05-20, mat dien,low
+R3004,A105,, wifi yeu,medium
+R3005,A125,,Hong bong den,low
+R3006,A108,, wifi yeu,medium
+R3007,A101,,may chieu khong len,medium
+R3008,A150,, wifi yeu,medium
+R3009,A151,2024-01-31,may chieu khong len,high
+R3010,A111,2024-01-06, mat dien,medium
+R3011,A120,, wifi yeu,medium
+R3012,A153,, mat dien,high
+R3013,A139,, loa bi re,high
+R3014,A103,, wifi yeu,high
+R3015,A117,2024-01-13,Hong bong den,low
+R3016,A133,, Dieu hoa hong,low
+R3017,A148,2024-01-19,may chieu khong len,low
+R3018,A121,,Hong bong den,low
+R3019,A135,2024-05-04, wifi yeu,high
+R3020,A127,2024-02-09, Dieu hoa hong,medium
+R3021,A146,,Hong bong den,high
+R3022,A117,2024-04-02, loa bi re,high
+R3023,A128,, mat dien,low
+R3024,A142,, wifi yeu,low
+R3025,A108,, Dieu hoa hong,medium
+R3026,A141,2024-04-16,may chieu khong len,medium
+R3027,A152,2024-03-30, wifi yeu,high
+R3028,A144,, wifi yeu,low
+R3029,A153,2024-03-09, wifi yeu,low
+R3030,A145,,may chieu khong len,high
+R3031,A130,,Hong bong den,low
+R3032,A142,2024-03-20, Dieu hoa hong,high
+R3033,A135,, wifi yeu,high
+R3034,A142,2024-03-07,may chieu khong len,low
+R3035,A145,2024-03-17,Hong bong den,high
+R3036,A111,,may chieu khong len,low
+R3037,A103,2024-01-04, mat dien,medium
+R3038,A128,, mat dien,high
+R3039,A120,,may chieu khong len,low
+R3040,A156,2024-04-30, mat dien,low
+R3041,A140,, mat dien,high
+R3042,A122,2024-05-21,may chieu khong len,medium
+R3043,A153,2024-02-02, Dieu hoa hong,high
+R3044,A133,2024-04-08, Dieu hoa hong,high
+R3045,A155,2024-03-31, Dieu hoa hong,low
+R3046,A148,2024-01-25,may chieu khong len,low
+R3047,A134,, Dieu hoa hong,high
+R3048,A101,2024-04-03, Dieu hoa hong,medium
+R3049,A128,,may chieu khong len,high
+R3050,A144,2024-01-08,may chieu khong len,low
+R3051,A124,, mat dien,high
+R3052,A126,2024-04-10, Dieu hoa hong,high
+R3053,A133,, loa bi re,high
+R3054,A108,,Hong bong den,low
+R3055,A125,, wifi yeu,high
+R3056,A114,2024-04-23,Hong bong den,low
+R3057,A156,2024-03-17, loa bi re,medium
+R3058,A155,2024-02-25, Dieu hoa hong,high
+R3059,A113,2024-04-09, loa bi re,medium
+R3060,A103,2024-03-28, Dieu hoa hong,low
+R3061,A146,2024-04-06, loa bi re,low
+R3062,A109,2024-03-07, Dieu hoa hong,high
+R3063,A140,,may chieu khong len,medium
+R3064,A124,, wifi yeu,medium
+R3065,A156,, wifi yeu,medium
+R3066,A120,2024-05-11, loa bi re,high
+R3067,A110,,Hong bong den,low
+R3068,A124,2024-04-27, loa bi re,high
+R3069,A136,, Dieu hoa hong,medium
+R3070,A153,2024-05-09, wifi yeu,low
+R3071,A136,2024-03-25,may chieu khong len,medium
+R3072,A141,2024-05-27, mat dien,high
+R3073,A100,2024-03-06, mat dien,low
+R3074,A152,, wifi yeu,high
+R3075,A157,,Hong bong den,high
+R3076,A115,2024-03-18, loa bi re,low
+R3077,A157,2024-05-17,Hong bong den,medium
+R3078,A131,2024-03-09,may chieu khong len,medium
+R3079,A130,2024-01-25, wifi yeu,high
+R3080,A121,, wifi yeu,high
+R3081,A130,2024-02-23,Hong bong den,low
+R3082,A155,, wifi yeu,high
+R3083,A147,2024-03-25,may chieu khong len,high
+R3084,A121,, Dieu hoa hong,medium
+R3085,A131,,Hong bong den,medium
+R3086,A159,, mat dien,medium
+R3087,A102,2024-02-28,may chieu khong len,medium
+R3088,A150,, wifi yeu,medium
+R3089,A104,2024-05-14, wifi yeu,low
+R3090,A127,, wifi yeu,medium
+R3091,A131,2024-05-26,Hong bong den,high
+R3092,A133,2024-03-13, loa bi re,low
+R3093,A127,2024-02-12, wifi yeu,medium
+R3094,A148,, loa bi re,high
+R3095,A147,2024-04-06, Dieu hoa hong,medium
+R3096,A132,,Hong bong den,medium
+R3097,A104,,Hong bong den,medium
+R3098,A105,,may chieu khong len,low
+R3099,A108,2024-04-12, Dieu hoa hong,low
+R3100,A159,, mat dien,low
+R3101,A159,, wifi yeu,high
+R3102,A122,2024-01-08, Dieu hoa hong,low
+R3103,A154,, Dieu hoa hong,high
+R3104,A131,,Hong bong den,low
+R3105,A129,2024-01-21, loa bi re,medium
+R3106,A140,2024-03-08, mat dien,high
+R3107,A154,2024-05-21, mat dien,high
+R3108,A134,, Dieu hoa hong,medium
+R3109,A118,2024-05-12, mat dien,high
+R3110,A135,2024-04-25, wifi yeu,high
+R3111,A151,2024-01-01,Hong bong den,low
+R3112,A106,,may chieu khong len,medium
+R3113,A132,,may chieu khong len,low
+R3114,A117,2024-01-11, Dieu hoa hong,high
+R3115,A128,2024-04-18, loa bi re,low
+R3116,A158,2024-02-15, wifi yeu,low
+R3117,A123,2024-01-05, Dieu hoa hong,high
+R3118,A103,, wifi yeu,high
+R3119,A136,, mat dien,low
