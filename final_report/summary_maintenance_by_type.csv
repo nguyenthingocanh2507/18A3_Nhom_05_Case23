@@ -1,0 +1,6 @@
+facility_type,total_incidents,avg_repair_time,max_repair_time,min_repair_time
+Hoi Truong,24,3.426470588235294,5.0,1.5
+Lab,29,3.1125,5.0,1.5
+Phong  Hoc,14,2.09375,4.25,1.5
+Phong Hoc,18,3.1538461538461537,5.0,1.5
+Studio,15,3.075,5.0,1.5
